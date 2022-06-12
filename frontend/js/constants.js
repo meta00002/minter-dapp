@@ -1,9 +1,9 @@
 const contractAddress = "0x8fA68660D7F240D07e8eDEc24A95FC63ADdb034E"; //Replace with your own contract address
 const chain = 'Ethereum'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the MetaDoge NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = "A collection of 10,000 dogs from the metaverse, No roadmap, no dc, just a cute metadoge to accompany you into the metaverse, are you ready?let's go!";
+const welcome_p = "A collection of 10,000 dogs from the metaverse, No roadmap, No dc, just a cute metadoge to accompany you into the metaverse, are you ready?let's go!";
 
 const h1_public_mint = "Public Minting Open!!";
 
